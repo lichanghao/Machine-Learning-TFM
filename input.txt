@@ -1,0 +1,11 @@
+# number of possibly sharp edges
+n       8
+
+# magnitude of the perturbation from the unit circle,
+r       0.7
+
+# smoothing parameter
+sigma   7
+
+# boundary for scaling. This should be your simulation boundary
+boundary 0 1 0 1
